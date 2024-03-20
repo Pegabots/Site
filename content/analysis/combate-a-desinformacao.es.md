@@ -1,7 +1,7 @@
 ---
 language: es
 draft: false
-title: Transparencia, Capacitación y Resiliencia son nuestras palabras claves.
+title: Transparencia, Capacitación y Resiliencia son nuestras palabras claves
 slug: ""
 date: 2020-08-11T19:30:31.000Z
 bookmark:
